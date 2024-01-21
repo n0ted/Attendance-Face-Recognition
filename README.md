@@ -1,8 +1,4 @@
 # Attendance-Face-Recognition
-Facesync Attendance System is a project that leverages advanced face detection and recognition techniques to automate attendance tracking. This system utilizes the capabilities of modern face recognition libraries and provides an efficient solution for marking attendance using webcam images.
-
-# Facesync Attendance System
-
 ## Overview
 
 Facesync Attendance System is an innovative project that harnesses advanced face detection and recognition techniques to automate the attendance tracking process. This system utilizes cutting-edge face recognition libraries, providing an efficient solution for marking attendance using webcam images.
